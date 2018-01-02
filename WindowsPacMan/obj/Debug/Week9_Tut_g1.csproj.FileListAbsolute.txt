@@ -1,0 +1,39 @@
+C:\Users\Low\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.exe.config
+C:\Users\Low\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.exe
+C:\Users\Low\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.pdb
+C:\Users\Low\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.csprojResolveAssemblyReference.cache
+C:\Users\Low\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.Properties.Resources.resources
+C:\Users\Low\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.csproj.GenerateResource.Cache
+C:\Users\Low\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.csproj.CoreCompileInputs.cache
+C:\Users\Low\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.exe
+C:\Users\Low\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.pdb
+C:\Users\Low\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.Form1.resources
+C:\Users\barry\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.exe.config
+C:\Users\barry\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.exe
+C:\Users\barry\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.pdb
+C:\Users\barry\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.csprojResolveAssemblyReference.cache
+C:\Users\barry\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.Form1.resources
+C:\Users\barry\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.Properties.Resources.resources
+C:\Users\barry\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.csproj.GenerateResource.Cache
+C:\Users\barry\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.csproj.CoreCompileInputs.cache
+C:\Users\barry\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.exe
+C:\Users\barry\Documents\Visual Studio 2017\Projects\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.pdb
+C:\Users\itach_000\Desktop\NET\Practical TESTO\Practicaltest\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.exe.config
+C:\Users\itach_000\Desktop\NET\Practical TESTO\Practicaltest\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.exe
+C:\Users\itach_000\Desktop\NET\Practical TESTO\Practicaltest\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.pdb
+C:\Users\itach_000\Desktop\NET\Practical TESTO\Practicaltest\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.exe
+C:\Users\itach_000\Desktop\NET\Practical TESTO\Practicaltest\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.pdb
+C:\Users\itach_000\Desktop\NET\Practical TESTO\Practicaltest\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.csprojResolveAssemblyReference.cache
+C:\Users\itach_000\Desktop\NET\Practical TESTO\Practicaltest\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.Form1.resources
+C:\Users\itach_000\Desktop\NET\Practical TESTO\Practicaltest\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.Properties.Resources.resources
+C:\Users\itach_000\Desktop\NET\Practical TESTO\Practicaltest\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.csproj.GenerateResource.Cache
+C:\Users\custord\source\repos\Week9_Tut_g1\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.csprojResolveAssemblyReference.cache
+C:\Users\custord\source\repos\Week9_Tut_g1\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.Form1.resources
+C:\Users\custord\source\repos\Week9_Tut_g1\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.csproj.GenerateResource.Cache
+C:\Users\custord\source\repos\Week9_Tut_g1\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.exe
+C:\Users\custord\source\repos\Week9_Tut_g1\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.pdb
+C:\Users\custord\source\repos\Week9_Tut_g1\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.exe.config
+C:\Users\custord\source\repos\Week9_Tut_g1\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.exe
+C:\Users\custord\source\repos\Week9_Tut_g1\Week9_Tut_g1\Week9_Tut_g1\bin\Debug\Week9_Tut_g1.pdb
+C:\Users\custord\source\repos\Week9_Tut_g1\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.Properties.Resources.resources
+C:\Users\custord\source\repos\Week9_Tut_g1\Week9_Tut_g1\Week9_Tut_g1\obj\Debug\Week9_Tut_g1.csproj.CoreCompileInputs.cache
